@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+}
+.conteiner{
+    width: 70%;
+    margin: auto;
+    display: flex;
+}
+.left{
+    width: 19%;
+    background-color: #f1f1f1;
+    height: 100vh;
+    position: fixed;
+    overflow-y: scroll;
+   
+}
+.first{
+    margin-left: 40px;
+    margin-top: 40px;
+   
+}
+.second{
+    font-size: 30px;
+    line-height: 32px;
+    margin: 40px 10px;
+    
+}
+.third{
+    font-size: 25px ;
+    color: rgb(56, 55, 55);
+    margin: 20px 10px 50px;
+}
+.third1{
+    font-size: 25px ;
+    color: rgb(56, 55, 55);
+    margin: 20px 10px 20px;
+}
+input{
+    width: 300px ;
+    height: 50px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.ss{
+    width: 305px ;
+    height: 50px;
+    margin: 10px 10px ;
+    font-size: 20px;
+    background-color: #4CAF50;
+    margin-top: 25px;
+    color: white;
+   
+}
+.ss i{
+    padding: 10px;
+}
+.ss:hover{
+    background-color: #b3acac;
+    color: black;
+}
+.third2{
+    font-size: 25px ;
+    color: rgb(56, 55, 55);
+    margin-left: 10px;
+    margin-top: 70px;
+}
+.third2 i{
+    padding: 10px;
+}
+.right{
+    
+    width: 74%;
+    margin-left: 420px;
+    border-right: 3px solid grey;
+    
+    
+    
+}
+.pp{
+    color: #4CAF50;
+    font-size: 50px;
+    margin: 20px;
+    
+}
+.sw1{
+    padding: 30px;
+    width:93%;
+}
+.surato{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.tt{
+    width: 230px;
+    height: 120px;
+}
+.right h2{
+    padding: 50px;
+    font-size: 40px;
+}
+.p2{
+    
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 40px;
+
+}
+.hr{
+    
+    color: #b3acac;
+}
+.sec1{
+    display: flex;
+    
+}
+.sec12{
+    margin-left: 400px;
+}
+.ee{
+    font-size: 30px;
+    padding: 20px;
+}
+.right h1{
+    
+    font-size: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+}
+.dd{
+    margin-left: 20px;
+    width: 1090px;
+    margin-bottom: 15px;
+}
+
+
+
